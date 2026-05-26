@@ -1,8 +1,14 @@
-# 🌌 Welcome to my Digital Space | I'm V. Rahul
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=32&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+V.+Rahul;Computer+Science+Engineer;Creative+Frontend+Developer" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <strong>Computer Science & Engineering Student @ Narsimha Reddy Engineering College</strong>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-4A154B?style=for-the-badge&logo=opsgenie&logoColor=white" alt="B.Tech CSE" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering%20%26%20Creative%20Design-39D353?style=for-the-badge&logo=frontendmentor&logoColor=black" alt="Focus Frontend" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-39D353?style=for-the-badge&logo=frontendmentor&logoColor=black" alt="Focus Frontend" />
 </p>
 
 ---
